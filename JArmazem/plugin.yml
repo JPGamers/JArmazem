@@ -1,0 +1,5 @@
+name: JArmazem
+version: 1.0
+main: jarmazem.Main
+commands:
+    armazem:
