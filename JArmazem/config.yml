@@ -1,0 +1,33 @@
+Plantacoes:
+    cacto:
+        # Id do item da planta
+        ID: 81
+        # Data do item da planta
+        Data: 0
+        # Nome que irá aparecer no menu e nas mensagens
+        Display: '&aCacto'
+        # Preço por cada unidade
+        Preco: 7.0
+        # Permissão para vender a plantação
+        PermissionVender: ''
+        # Permissão para recolher a plantação
+        PermissionRecolher: ''
+        # Item que aparecerá no menu
+        ItemDisplay:
+          CustomSkull: false
+          URL: ''
+          ID: 81
+          Data: 0
+          Glow: true
+          Name: '&aCacto'
+Menu:
+    Nome: "&7Armazem"
+    Tamanho: 27
+    Slots: [10,11,12,13,14,15,16]
+    Lore:
+        - '&fQuantia: &a{quantia}&f'
+        - '&fUnidade: a{unidade}&f'
+        - '&fTotal: a{total}&f'
+        - ''
+        - '&7Clique com esquerdo para vender.'
+        - '&7Clique com direito para coletar.'
