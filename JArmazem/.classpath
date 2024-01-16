@@ -9,5 +9,6 @@
 	<classpathentry kind="lib" path="C:/Users/user/Desktop/Builds/sv.jar"/>
 	<classpathentry kind="lib" path="C:/Users/user/Desktop/Builds - Copia/plugins/PlotSquared-Bukkit-3.823.jar"/>
 	<classpathentry kind="lib" path="C:/Users/user/Desktop/Builds - Copia/plugins/PlaceholderAPI-2.11.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/user/Desktop/Builds - Copia/plugins/Vault.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
